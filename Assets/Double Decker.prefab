@@ -372,7 +372,7 @@ GameObject:
   - 114: {fileID: 114000012451373858}
   - 114: {fileID: 114000014269817160}
   m_Layer: 0
-  m_Name: Double Decker 11
+  m_Name: Double Decker
   m_TagString: Pickup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
